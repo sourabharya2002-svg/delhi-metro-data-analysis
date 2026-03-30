@@ -10,8 +10,7 @@ This project performs data cleaning, preprocessing, and visualization on Delhi M
 
 The dataset used in this project:
 
-📁 [[[Download Dataset](data/delhi_metro_cleaned_data.csv)] ](https://github.com/sourabharya2002-svg/delhi-metro-data-analysis/blob/main/delhi_metro_cleaned_data.csv)
-
+📁 [Download Dataset](https://raw.githubusercontent.com/sourabharya2002-svg/delhi-metro-data-analysis/main/delhi_metro_cleaned_data.csv)
 ### Columns:
 
 * Ticket_Type
